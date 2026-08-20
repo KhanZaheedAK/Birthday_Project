@@ -4,11 +4,11 @@ An interactive birthday-themed electronics project built using an ESP8266 NodeMC
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit-diagram.png)
+![Circuit Diagram](Birthday_Circuit.png)
 
 ## 🎥 Circuit Demonstration
 
-[Watch the Circuit Demonstration](circuit-demo.mp4)
+[Watch the Circuit Demonstration](Birthday_Video.mp4)
 
 ## 🧰 Components Used
 
