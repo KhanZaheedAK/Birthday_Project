@@ -37,3 +37,13 @@ An interactive birthday-themed electronics project built using an ESP8266 NodeMC
 - Buzzer output
 - ESP8266-based control
 - Simple interactive birthday display
+
+## 👨‍💻 Author
+
+**Zaheed Khan**
+
+### 🛡️ Project Name
+
+**Birthday Project**
+
+---
